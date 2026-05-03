@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\JOURNEY\\KULIAH\\ALL SEMESTER\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\Visual Studio\\TP_MODUL10_103022400132\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7443EA0-E370-C3A1-2B36-5DA6FB5E7EC5}|TP_MODUL10_103022400132\\TP_MODUL10_103022400132.csproj|d:\\journey\\kuliah\\all semester\\semester 4\\konstruksi perangkat lunak\\visual studio\\tp_modul10_103022400132\\tp_modul10_103022400132\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7443EA0-E370-C3A1-2B36-5DA6FB5E7EC5}|TP_MODUL10_103022400132\\TP_MODUL10_103022400132.csproj|solutionrelative:tp_modul10_103022400132\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7443EA0-E370-C3A1-2B36-5DA6FB5E7EC5}|TP_MODUL10_103022400132\\TP_MODUL10_103022400132.csproj|d:\\journey\\kuliah\\all semester\\semester 4\\konstruksi perangkat lunak\\visual studio\\tp_modul10_103022400132\\tp_modul10_103022400132\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7443EA0-E370-C3A1-2B36-5DA6FB5E7EC5}|TP_MODUL10_103022400132\\TP_MODUL10_103022400132.csproj|solutionrelative:tp_modul10_103022400132\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7443EA0-E370-C3A1-2B36-5DA6FB5E7EC5}|TP_MODUL10_103022400132\\TP_MODUL10_103022400132.csproj|d:\\journey\\kuliah\\all semester\\semester 4\\konstruksi perangkat lunak\\visual studio\\tp_modul10_103022400132\\tp_modul10_103022400132\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7443EA0-E370-C3A1-2B36-5DA6FB5E7EC5}|TP_MODUL10_103022400132\\TP_MODUL10_103022400132.csproj|solutionrelative:tp_modul10_103022400132\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\JOURNEY\\KULIAH\\ALL SEMESTER\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\Visual Studio\\TP_MODUL10_103022400132\\TP_MODUL10_103022400132\\Program.cs",
+              "RelativeDocumentMoniker": "TP_MODUL10_103022400132\\Program.cs",
+              "ToolTip": "D:\\JOURNEY\\KULIAH\\ALL SEMESTER\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\Visual Studio\\TP_MODUL10_103022400132\\TP_MODUL10_103022400132\\Program.cs",
+              "RelativeToolTip": "TP_MODUL10_103022400132\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T08:44:36.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilmController.cs",
+              "DocumentMoniker": "D:\\JOURNEY\\KULIAH\\ALL SEMESTER\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\Visual Studio\\TP_MODUL10_103022400132\\TP_MODUL10_103022400132\\FilmController.cs",
+              "RelativeDocumentMoniker": "TP_MODUL10_103022400132\\FilmController.cs",
+              "ToolTip": "D:\\JOURNEY\\KULIAH\\ALL SEMESTER\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\Visual Studio\\TP_MODUL10_103022400132\\TP_MODUL10_103022400132\\FilmController.cs",
+              "RelativeToolTip": "TP_MODUL10_103022400132\\FilmController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T08:36:19.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Film.cs",
+              "DocumentMoniker": "D:\\JOURNEY\\KULIAH\\ALL SEMESTER\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\Visual Studio\\TP_MODUL10_103022400132\\TP_MODUL10_103022400132\\Film.cs",
+              "RelativeDocumentMoniker": "TP_MODUL10_103022400132\\Film.cs",
+              "ToolTip": "D:\\JOURNEY\\KULIAH\\ALL SEMESTER\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\Visual Studio\\TP_MODUL10_103022400132\\TP_MODUL10_103022400132\\Film.cs",
+              "RelativeToolTip": "TP_MODUL10_103022400132\\Film.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T08:29:01.639Z",
+              "EditorCaption": ""
             }
           ]
         }
